@@ -4,9 +4,7 @@ import androidx.lifecycle.LiveData
 import androidx.room.*
 import cl.desafiolatam.monstercreator.model.Monster
 
-/**
- * Created by Cristian Vidal on 2019-09-26.
- */
+
 @Dao
 interface MonsterDao {
 
